@@ -104,6 +104,30 @@ Telegram bot that resizes and removes backgrounds from images, optimized for iso
 
 ---
 
+## 🇷🇺 Русская версия
+
+### 👨‍💻 Обо мне
+
+Full-stack разработчик. Строю веб-платформы, SaaS и REST API на Laravel с Vue 3. Работал в госсекторе (ТФОМС), e-commerce (KINETICA) и высоконагруженном геймдеве (OldBK2). Проектирую архитектуру, пишу чистый код, упаковываю в Docker, документирую.
+
+Интересуюсь также системным программированием — написал кроссплатформенное десктоп-приложение [DropAndDrag](https://github.com/tigranadamyan/DropAndDrag) на C++23 (Cocoa, X11, Skia).
+
+### 📌 Проекты
+
+- 🏪 [**goldshinetrade**](https://github.com/tigranadamyan/goldshinetrade) — маркетплейс игровых валют: escrow, чат (Pusher), платежи (CKassa), OAuth (VK ID + Google), админ-панель.
+- 💻 [**Configurator_PC**](https://github.com/tigranadamyan/Configurator_PC) — конфигуратор ПК: проверка совместимости, парсинг цен (RoachPHP), AI-ассистент (DeepSeek).
+- 🎮 [**AOE2DEAnalyzator**](https://github.com/tigranadamyan/AOE2DEAnalyzator) — анализатор матчей AoE2:DE: парсинг реплеев, движок правил, Steam API.
+- 📚 [**Programm-Pedia**](https://github.com/tigranadamyan/Programm-Pedia) — база знаний для разработчиков: поиск (Meilisearch), rich-редактор, PDF.
+- 🖥️ [**DropAndDrag**](https://github.com/tigranadamyan/DropAndDrag) — кроссплатформенная drag-and-drop полка на C++23.
+
+### 🤝 Контакты
+
+- 📧 **Почта**: tigran05012002@mail.ru
+- 💬 **Telegram**: [@tigranadamyan](https://t.me/tigranadamyan)
+- 🐙 **GitHub**: [tigranadamyan](https://github.com/tigranadamyan)
+
+---
+
 ## 🤝 Let's Connect
 
 I'm open to collaboration on interesting projects, freelance work, and full-time opportunities. I write clean, documented code and ship complete products.
