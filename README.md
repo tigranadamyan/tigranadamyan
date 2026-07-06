@@ -7,8 +7,6 @@
   <a href="mailto:tigran05012002@mail.ru"><img src="https://img.shields.io/badge/Email-tigran%40adamyan.dev-EA4335?style=flat-square&logo=gmail" /></a>
   <a href="https://t.me/tigranadamyan"><img src="https://img.shields.io/badge/Telegram-%40tigranadamyan-26A5E4?style=flat-square&logo=telegram" /></a>
   <img src="https://komarev.com/ghpvc/?username=tigranadamyan&style=flat-square&color=blue" alt="Profile views" />
-
-> 🔄 **Username changed**: `tigr322` → `tigranadamyan`. Old links redirect automatically.
 </p>
 
 ---
